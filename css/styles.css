@@ -31,7 +31,7 @@ button {
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
-        letter-spacing: 0,03em;
+        letter-spacing: 0.03em;
         text-transform: uppercase
 }
 .link-menu{
@@ -85,8 +85,9 @@ button {
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
-        letter-spacing: 0,04em;
-        color:#ffffff
+        letter-spacing: 0.04em;
+        color:#ffffff;
+        background-color: #4D5AE5;
 }
 .botton-hero:hover,
 .botton-hero:focus{
@@ -94,7 +95,7 @@ button {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0, 04em;
-    color: #404BBF
+    background-color: #404BBF;
 } 
 /* Features styles */
 .features-title{
@@ -118,6 +119,7 @@ button {
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
+        color: #2E2F42;
 }
 .team-section{
     background-color: #F4F4FD;
@@ -130,12 +132,13 @@ button {
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        color: #2e2f42;
 }
 .team-member-text{
         font-size: 16px;
         font-weight: 400;
         line-height: 1.5;
-        letter-spacing: 0.02em;
+        letter-spacing: 0.02em; 
         color: #434455;
 }
 /* portfolio styles */
@@ -146,12 +149,14 @@ button {
         letter-spacing: 0.02em;
         text-transform: capitalize;
         text-align: center;
+        color: #2e2f42;
 }
 .portfolio-works{
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        color: #2e2f42;
 }
 .portfolio-works-text{
         font-size: 16px;
