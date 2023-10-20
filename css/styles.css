@@ -106,6 +106,7 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  padding: 24px 0;
 }
 .link-menu:hover,
 .link-menu:focus {
@@ -114,9 +115,6 @@ ol {
   line-height: 1, 5;
   letter-spacing: 0, 02em;
   color: #404bbf;
-}
-.menu-item {
-  padding: 24px 0;
 }
 
 .addres-main {
@@ -299,6 +297,7 @@ ol {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .portfolio-works-text {
   font-size: 16px;
