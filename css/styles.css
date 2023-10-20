@@ -149,11 +149,11 @@ ol {
   line-height: 1.07em;
   letter-spacing: 0.02em;
   color: #ffffff;
-  width: 496px;
+  max-width: 496px;
   height: 120px;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 48px;
-  margin-left: 472px;
-  margin-right: 472px;
 }
 
 .botton-hero {
@@ -188,7 +188,7 @@ ol {
   background-color: #404bbf;
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   margin-top: 48px;
-  text-align: center;
+  margin: 0 auto;
 }
 /* Features styles */
 .features-title {
