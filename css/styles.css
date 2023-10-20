@@ -63,7 +63,6 @@ ol {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 1158px;
   height: 72px;
   background: var(--WHITE, #fff);
 }
